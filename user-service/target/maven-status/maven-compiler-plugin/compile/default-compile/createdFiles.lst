@@ -1,0 +1,4 @@
+com\mycomp\billeezz\userservice\DTO\Product.class
+com\mycomp\billeezz\userservice\controller\UserController.class
+com\mycomp\billeezz\userservice\ProductProxy.class
+com\mycomp\billeezz\userservice\UserServiceApplication.class

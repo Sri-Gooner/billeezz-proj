@@ -1,0 +1,28 @@
+package com.mycomp.billeezz.userservice.controller;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class Sample {
+	static void sample(){
+		try
+		{
+		int b=10/0;
+		}catch(ArithmeticException e)
+		{
+		System.out.println("ArithmeticException occurred");
+		int c=20/0;
+		}
+	}
+	public static void main(String[] args) {
+		//Sample.sample();
+		System.out.println(7/3);
+		System.out.println(7%2);
+		int a = 'A';
+		System.out.println(a);
+		
+		Map<Integer,String> mp = new HashMap<Integer,String>();
+		mp.put(1,"s");
+		mp.put(1, "s")
+	}
+}

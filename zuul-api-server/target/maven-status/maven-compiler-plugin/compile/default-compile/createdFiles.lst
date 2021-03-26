@@ -1,0 +1,9 @@
+com\mycomp\billeezz\zuulapiserver\Security\AuthenticationRequest.class
+com\mycomp\billeezz\zuulapiserver\ZuulLoggingFilter.class
+com\mycomp\billeezz\zuulapiserver\Security\AuthenticationResponse.class
+com\mycomp\billeezz\zuulapiserver\ZuulApiServerApplication.class
+com\mycomp\billeezz\zuulapiserver\MyZuulController.class
+com\mycomp\billeezz\zuulapiserver\Security\MyUserDetailsService.class
+com\mycomp\billeezz\zuulapiserver\Security\SecurityConfigurer.class
+com\mycomp\billeezz\zuulapiserver\Security\JwtUtil.class
+com\mycomp\billeezz\zuulapiserver\Security\JwtRequestFilter.class

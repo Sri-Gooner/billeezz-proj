@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;zuul-api-server/src/main/java/com/mycomp/billeezz/zuulapiserver/ZuulController.java&apos; to &apos;MyZuulController.java&apos;" description="Rename resource &apos;ZuulController.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/com/mycomp/billeezz/zuulapiserver/ZuulController.java" name="MyZuulController.java" stamp="1604560603313" updateReferences="true"/>
+</session>

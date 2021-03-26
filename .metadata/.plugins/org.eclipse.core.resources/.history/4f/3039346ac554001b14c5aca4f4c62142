@@ -1,0 +1,7 @@
+package com.mycomp.billeezz.userservice.controller;
+
+public class Sample1 {
+	void sam(){
+		System.out.println("sam1");
+	}
+}

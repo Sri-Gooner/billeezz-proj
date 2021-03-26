@@ -1,0 +1,20 @@
+package com.mycomp.billeezz.userservice.controller;
+
+public class Sample {
+	static void sample(){
+		try
+		{
+		int b=10/0;
+		}catch(ArithmeticException e)
+		{
+		System.out.println("ArithmeticException occurred");
+		int c=20/0;
+		}
+	}
+	public static void main(String[] args) {
+		//Sample.sample();
+		System.out.println(7/3);
+		System.out.println(7%2);
+		int a = 'a';
+	}
+}
